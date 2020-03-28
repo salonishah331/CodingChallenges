@@ -24,7 +24,7 @@ Repo for completed Coding Challenges
 - [Max Stack](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/MaxStack.py)
 - [Merge Intervals](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/MergeIntervals.py)
 - [Merge Two Sorted Arrays](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/MergeTwoSortedArrays.py)
-- [Single Riffle] (https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/SingleRiffle.py)
+- [Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/SingleRiffle.py)
 - [Valid Palindrome I](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome1.py)
 - [Valid Palindrome II](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ValidPalindrome2.py)
 
