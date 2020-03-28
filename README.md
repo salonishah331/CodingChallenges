@@ -25,4 +25,5 @@ Repo for completed Coding Challenges
 - [Directories](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/directories.py)
 - [Height of Tree (java)](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/heightoftree.java)
 - [Valid Palindrome I](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome1.py)
+- [Valid Palindrome II](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome2.py)
 
