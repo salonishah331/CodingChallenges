@@ -35,4 +35,5 @@ Repo for completed Coding Challenges
 - [Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/SingleRiffle.py)
 - [Valid Palindrome I](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome1.py)
 - [Valid Palindrome II](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ValidPalindrome2.py)
+- [Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validParentheses.py)
 
