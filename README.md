@@ -31,6 +31,7 @@ Repo for completed Coding Challenges
 - [Queue With Two Stacks](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/QueueWithTwoStacks.py)
 - [Reverse Linked List](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ReverseLinkedList.py)
 - [Reverse Singly Linked List](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ReverseSLL.py)
+- [Reverse String](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/reverseString.py)
 - [Reverse Words](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ReverseWords.py)
 - [Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/SingleRiffle.py)
 - [Valid Palindrome I](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome1.py)
