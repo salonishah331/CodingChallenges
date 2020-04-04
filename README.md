@@ -34,6 +34,7 @@ Repo for completed Coding Challenges
 - [Reverse Singly Linked List](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ReverseSLL.py)
 - [Reverse String](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/reverseString.py)
 - [Reverse Words](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ReverseWords.py)
+- [Roman Numeral To Int](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/RomanToInt.py)
 - [Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/SingleRiffle.py)
 - [Valid Palindrome I](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome1.py)
 - [Valid Palindrome II](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ValidPalindrome2.py)
