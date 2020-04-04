@@ -18,6 +18,7 @@ Repo for completed Coding Challenges
 - [Kth Last Node](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/KthLastNode.py)
 - [LRU Cache](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/LRUCache.py)
 - [Linked List Cycle](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/LinkedListCycle.py)
+- [Longest Increasing Path](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/LongestIncreasingPath.py)
 - [Longest String Chain](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/LongestStringChain.py)
 - [Max Profit (java)](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/MaxProfitJava.java)
 - [Max Profit (python)](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/MaxProfitPython.py)
