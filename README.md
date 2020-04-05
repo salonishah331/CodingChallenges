@@ -39,4 +39,5 @@ Repo for completed Coding Challenges
 - [Valid Palindrome I](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome1.py)
 - [Valid Palindrome II](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ValidPalindrome2.py)
 - [Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validParentheses.py)
+- [Verify Alien Dictionary](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/verifyAlienDictionary.py)
 
