@@ -38,6 +38,7 @@ Repo for completed Coding Challenges
 - [Roman Numeral To Int](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/RomanToInt.py)
 - [Search in Rotated Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/SearchInRotatedSortedArray.py)
 - [Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/SingleRiffle.py)
+- [Two City Scheduling](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/TwoCityScheduling.py)
 - [Valid Palindrome I](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validPalindrome1.py)
 - [Valid Palindrome II](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/ValidPalindrome2.py)
 - [Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/validParentheses.py)
