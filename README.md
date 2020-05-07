@@ -2,8 +2,8 @@
 Repo for completed Coding Challenges
 
 # Topics 
-[Arrays](#arrays)/n
-[Strings](#strings)
+- [Arrays](#arrays)
+- [Strings](#strings)
 [Hash Maps](#hash-maps)
 [Linked Lists](#linked-lists)
 [Queues and Stacks](#queues-and-stacks)
