@@ -26,6 +26,12 @@ Repo for completed Coding Challenges
 
 # Strings
 
+[Longest String Chain](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/LongestStringChain.py) |
+[Reverse Words](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/ReverseWords.py) |
+[Valid Palindrome 2](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/ValidPalindrome2.py) |
+[Reverse String](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/reverseString.py) | 
+[Valid Palindrome 1](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/validPalindrome1.py) |
+
 # Hash Maps
 
 
