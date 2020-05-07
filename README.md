@@ -2,7 +2,7 @@
 Repo for completed Coding Challenges
 
 # Topics 
--[Arrays](#arrays)
+*[Arrays](#arrays)
 -[Strings](#strings)
 -[Hash Maps](#hash-maps)
 -[Linked Lists](#linked-lists)
