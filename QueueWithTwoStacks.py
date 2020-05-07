@@ -2,7 +2,6 @@
 Queue with two stacks 
 Implement a queue with two stacks
 '''
-
     def __init__(self):
         self.stackuno = []
         self.stackdos = []
@@ -36,4 +35,3 @@ Implement a queue with two stacks
     
     
     
-        

@@ -1,9 +1,10 @@
-''' 
-Bracket Validator
-Write a function to determine whether the openers and closers are properly nested 
-Input: '{[]()}'
-Output: True
 '''
+Bracket Validator:
+    Write a function to check whether the opener's and closers are properly nested
+    Input: '{ [ ] ( ) }'
+    Output: True
+'''
+
 def is_valid(string):
     open_close = {'(' : ')','{' : '}','[' : ']'}
     openers = set(open_close.keys())
