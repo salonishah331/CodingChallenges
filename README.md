@@ -40,7 +40,7 @@ Repo for completed Coding Challenges
 # Linked Lists 
 
 [Add Two Numbers](https://github.com/salonishah331/CodingChallenges/blob/master/Linked%20Lists/AddTwoNumbers.py) | 
-[Copy Linked List With Random] (https://github.com/salonishah331/CodingChallenges/blob/master/Linked%20Lists/CopyLinkedListWithRandom.py) |
+[Copy Linked List With Random](https://github.com/salonishah331/CodingChallenges/blob/master/Linked%20Lists/CopyLinkedListWithRandom.py) |
 [Delete Node](https://github.com/salonishah331/CodingChallenges/blob/master/Linked%20Lists/DeleteNode.py) |
 [Flatten Doubly Linked List](https://github.com/salonishah331/CodingChallenges/blob/master/Linked%20Lists/FlattenDoublyLinkedList.py) |
 [LRU Cache](https://github.com/salonishah331/CodingChallenges/blob/master/Linked%20Lists/LRUCache.py) |
@@ -56,7 +56,7 @@ Repo for completed Coding Challenges
 [Min Stack](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/MinStack.py) |
 [Parentheses Matching](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/ParenthesesMatching.py) |
 [Queue With Two Stacks](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/QueueWithTwoStacks.py	) |
-[Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/validParentheses.py) |
+[Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/validParentheses.py)
 
 # Trees and Graphs
 
