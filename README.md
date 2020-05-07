@@ -14,7 +14,6 @@ Repo for completed Coding Challenges
 - [Delete Node](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/DeleteNode.py)
 - [Directories](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/directories.py)
 - [Fibonacci](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/Fibonacci.py)
-- [Find Duplicate](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/Anagram.py)
 - [Flatten Doubly Linked List](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/FlattenDoublyLinkedList.py)
 - [Height of Tree (java)](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/heightoftree.java)
 - [Hit Counter](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/HitCounter.py)
