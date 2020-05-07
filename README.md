@@ -17,6 +17,13 @@ Repo for completed Coding Challenges
 
 # Arrays
 
+[Attendance Record](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/AttendanceRecord.py) | 
+[Hit Counter](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/HitCounter.py) |
+[Merge Intervals](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MergeIntervals.py) |
+[Merge Two Sorted Arrays](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MergeTwoSortedArrays.py) |
+[Search In Rotated Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SearchInRotatedSortedArray.py) |
+[Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SingleRiffle.py) 
+
 # Strings
 
 # Hash Maps
