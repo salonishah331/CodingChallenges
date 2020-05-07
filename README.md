@@ -10,6 +10,7 @@ Repo for completed Coding Challenges
 - [Bubble Pop](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/bubblepop.py)
 - [Copy Linked List with Random Pointer](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/CopyLinkedListWithRandom.py)
 - [Cousins in Binary Tree](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/CousinsInBinaryTree.py)
+- [Critical Connections in a Network](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/CriticalConnectionsInANetwork.py)
 - [Delete Node](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/DeleteNode.py)
 - [Directories](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/directories.py)
 - [Fibonacci](https://github.com/salonishah331/CodingChallenges/blob/master/Leetcode/Fibonacci.py)
