@@ -77,4 +77,5 @@ Repo for completed Coding Challenges
 [Fibonacci](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/Fibonacci.py) |
 [Longest Increasing Path](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/LongestIncreasingPath.py) |
 [Longest String Chain](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/LongestStringChain.py	) |
-[Pascals Triangle](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/PascalsTriangle.py) 
+[Pascals Triangle](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/PascalsTriangle.py) |
+[Longest Palidromic Substring](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/LongestPalindromicSubstring.py)
