@@ -56,7 +56,8 @@ Repo for completed Coding Challenges
 [Min Stack](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/MinStack.py) |
 [Parentheses Matching](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/ParenthesesMatching.py) |
 [Queue With Two Stacks](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/QueueWithTwoStacks.py	) |
-[Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/validParentheses.py)
+[Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/validParentheses.py) |
+[Length of Longest Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/LongestValidParenthesesLength.py)
 
 # Trees and Graphs
 
