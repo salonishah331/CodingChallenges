@@ -19,7 +19,8 @@ Repo for completed Coding Challenges
 [Merge Intervals](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MergeIntervals.py) |
 [Merge Two Sorted Arrays](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MergeTwoSortedArrays.py) |
 [Search In Rotated Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SearchInRotatedSortedArray.py) |
-[Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SingleRiffle.py) 
+[Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SingleRiffle.py) |
+[Remove Duplicates in Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/removeDuplicates.py)
 
 # Strings
 
