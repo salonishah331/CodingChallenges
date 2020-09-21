@@ -20,7 +20,8 @@ Repo for completed Coding Challenges
 [Merge Two Sorted Arrays](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MergeTwoSortedArrays.py) |
 [Search In Rotated Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SearchInRotatedSortedArray.py) |
 [Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SingleRiffle.py) |
-[Remove Duplicates in Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/removeDuplicates.py)
+[Remove Duplicates in Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/removeDuplicates.py) |
+[Integer To English Words](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/IntegerToEnglishWords.py)
 
 # Strings
 
