@@ -68,7 +68,8 @@ Repo for completed Coding Challenges
 [Critical Connections In A Network](https://github.com/salonishah331/CodingChallenges/blob/master/Trees%20and%20Graphs/CriticalConnectionsInANetwork.py) |
 [Kill Process](https://github.com/salonishah331/CodingChallenges/blob/master/Trees%20and%20Graphs/KillProcess.py) |
 [Height of Tree](https://github.com/salonishah331/CodingChallenges/blob/master/Trees%20and%20Graphs/heightoftree.java) |
-[Balanced Binary Tree](https://github.com/salonishah331/CodingChallenges/blob/master/Trees%20and%20Graphs/BalancedBinaryTree.py)
+[Balanced Binary Tree](https://github.com/salonishah331/CodingChallenges/blob/master/Trees%20and%20Graphs/BalancedBinaryTree.py) |
+[Lowest Common Ancestor](https://github.com/salonishah331/CodingChallenges/blob/master/Trees%20and%20Graphs/LowestCommonAncestor.py)
 
 # Greedy Algorithms
 
