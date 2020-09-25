@@ -87,4 +87,5 @@ Repo for completed Coding Challenges
 [Longest String Chain](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/LongestStringChain.py	) |
 [Pascals Triangle](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/PascalsTriangle.py) |
 [Longest Palidromic Substring](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/LongestPalindromicSubstring.py) |
-[Longest Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/LongestValidParentheses.py)
+[Longest Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/LongestValidParentheses.py) |
+[Palindrome Removal](https://github.com/salonishah331/CodingChallenges/blob/master/Recursion%20and%20Dynamic%20Programming/PalidromeRemoval.py)
