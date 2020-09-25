@@ -22,7 +22,8 @@ Repo for completed Coding Challenges
 [Single Riffle](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SingleRiffle.py) |
 [Remove Duplicates in Sorted Array](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/removeDuplicates.py) |
 [Integer To English Words](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/IntegerToEnglishWords.py) |
-[Maximum Length of a Concatenated String with Unique Characters](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MaximumLengthofaConcatenatedStringwithUniqueCharacters.py)
+[Maximum Length of a Concatenated String with Unique Characters](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MaximumLengthofaConcatenatedStringwithUniqueCharacters.py) | 
+[Spiral Matrix](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SpiralMatrix.py)
 
 # Strings
 
