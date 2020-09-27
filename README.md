@@ -31,7 +31,8 @@ Repo for completed Coding Challenges
 [Reverse Words](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/ReverseWords.py) |
 [Valid Palindrome 2](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/ValidPalindrome2.py) |
 [Reverse String](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/reverseString.py) | 
-[Valid Palindrome 1](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/validPalindrome1.py) 
+[Valid Palindrome 1](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/validPalindrome1.py) |
+[Validate IP Address](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/ValidateIPAddress.py)
 
 # Hash Maps
 [Anagram ](https://github.com/salonishah331/CodingChallenges/blob/master/Hash%20Maps/Anagram.py) |
