@@ -27,6 +27,9 @@ Repo for completed Coding Challenges
 [Spiral Matrix](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/SpiralMatrix.py) |
 [Meeting Scheduler](https://github.com/salonishah331/CodingChallenges/blob/master/Arrays/MeetingScheduler.py)
 
+
+# Design
+
 # Strings
 
 [Longest String Chain](https://github.com/salonishah331/CodingChallenges/blob/master/Strings/LongestStringChain.py) |
