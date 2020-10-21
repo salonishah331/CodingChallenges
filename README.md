@@ -29,6 +29,7 @@ Repo for completed Coding Challenges
 
 
 # Design
+[Peeking Iterator](https://github.com/salonishah331/CodingChallenges/blob/master/Design/PeekingIterator.py)
 
 # Strings
 
