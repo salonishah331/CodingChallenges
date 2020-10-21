@@ -69,7 +69,8 @@ Repo for completed Coding Challenges
 [Parentheses Matching](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/ParenthesesMatching.py) |
 [Queue With Two Stacks](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/QueueWithTwoStacks.py	) |
 [Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/validParentheses.py) |
-[Length of Longest Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/LongestValidParenthesesLength.py)
+[Length of Longest Valid Parentheses](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/LongestValidParenthesesLength.py) |
+[Flatten Nested List Iterator](https://github.com/salonishah331/CodingChallenges/blob/master/Queues%20and%20Stacks/FlattenNestedListIterator.py)
 
 # Trees and Graphs
 
