@@ -7,21 +7,29 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        remainder = 0
-        dummyhead = ListNode(0)
-        currprev = dummyhead
-        while l1 or l2 or remainder:
-            v1 = v2 = 0
-            if l1:
-                v1 = l1.val
+        tempHead = ListNode(0, None)
+        carry = 0
+        x = 0
+        y = 0
+        curr = tempHead
+        while l1 or l2 or carry:
+            x = 0 
+            y = 0
+            if l1 is not None:
+                x = l1.val
                 l1 = l1.next
-            if l2:
-                v2 = l2.val
+            if l2 is not None:
+                y = l2.val
                 l2 = l2.next
-            total = v1 + v2 + remainder
-            remainder = int (total / 10)
-            total = int (total % 10) 
-            node = ListNode(total, None)
-            currprev.next = node
-            currprev = currprev.next
-        return dummyhead.next
+            
+            addedNode = x + y + carry
+            
+            carry = addedNode // 10
+            
+            curr.next = ListNode(addedNode % 10)
+            curr = curr.next
+            
+        if carry > 0:
+            curr.next = ListNode(carry)
+        
+        return tempHead.next
