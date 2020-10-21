@@ -10,6 +10,7 @@ Repo for completed Coding Challenges
 - [Trees and Graphs](#trees-and-graphs)
 - [Greedy Algorithms](#greedy-algorithms)
 - [Recursion and Dynamic Programming](#recursion-and-dynamic-programming)
+- [Design](#design)
 
 
 # Arrays
